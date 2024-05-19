@@ -72,4 +72,3 @@ start()
 
 
 
-export default app;
